@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Donka Monka @Donka
 
 # THANKS
 
